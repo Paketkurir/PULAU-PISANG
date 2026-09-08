@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pulau-pisang-mocha.vercel.app/sitemap.xml
+
